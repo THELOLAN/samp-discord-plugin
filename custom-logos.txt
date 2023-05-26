@@ -1,4 +1,5 @@
 server.redcountyrp.com:7777=rcrp
+samp.mgmcofficial.online:7777=mgmc
 samp.flintcounty.com:7777=barp
 ba-rp.net:7777=barp
 server.one-rp.com:7777=onerp
